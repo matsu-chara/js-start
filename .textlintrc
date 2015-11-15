@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "jtf-style"
+  ],
+  "rules": {
+    "spellcheck-tech-word": true,
+    "no-mix-dearu-desumasu": true
+  }
+}
